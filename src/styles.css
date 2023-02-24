@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.spann {
+  cursor: pointer;
+  gap: 2px;
+
+  background-color: black;
+  font-size: 2rem;
+}
+.box {
+  width: 18rem;
+  padding: 7px;
+  background-color: darksalmon;
+  color: black;
+  margin-bottom: 20px;
+}
